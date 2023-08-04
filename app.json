@@ -1,4 +1,7 @@
 {
   "name": "AppApi",
-  "displayName": "AppApi"
+  "displayName": "AppApi",
+  "expo": {
+    "plugins": ["@react-native-voice/voice"]
+  }
 }
